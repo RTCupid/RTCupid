@@ -22,7 +22,7 @@ During my bachelor's studies, I have completed several programming and applied c
 <h3>
   Here are some of my projects from
   <a href="https://github.com/ded32">I.R.Dedinsky</a>
-  one-year system programming and compiler technology course.
+  one-year system programming and compiler technology course (C/C++, NASM).
 
   (1st year)
 </h3>
