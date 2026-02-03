@@ -33,9 +33,9 @@ During my bachelor's studies, I have completed several programming and applied c
 - [MyPrintf](https://github.com/RTCupid/MyPrintf)
 
 <h3>
-Below you can also find my laboratory reports for General Physics: Thermodynamics course in MIPT.
+Below you can also find my laboratory reports for General Physics: Thermodynamics semester course in MIPT.
 
-  (2nd semester)
+  (1st year)
 </h3>
 
 - [MIPT-Laboratory](https://github.com/RTCupid/MIPT-Laboratory)
