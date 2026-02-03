@@ -11,7 +11,7 @@ During my bachelor's studies, I have completed several programming and applied c
   <a href="https://github.com/tilir">K.I.Vladimirov</a>
   one-year introduction to industrial programming in C++ course.
 
-  (2025-2026)
+  (2nd year)
 </h3>
 
 - [Biba_Boba_Buba_Language](https://github.com/RTCupid/Biba_Boba_Buba_Language)
@@ -24,10 +24,19 @@ During my bachelor's studies, I have completed several programming and applied c
   <a href="https://github.com/ded32">I.R.Dedinsky</a>
   one-year system programming and compiler technology course.
 
-  (2024-2025)
+  (1st year)
 </h3>
 
 - [My_Programming_Language](https://github.com/RTCupid/My_Programming_Language)
 - [HashTable](https://github.com/RTCupid/HashTable)
 - [MandelbrotFractal](https://github.com/RTCupid/MandelbrotFractal)
 - [MyPrintf](https://github.com/RTCupid/MyPrintf)
+
+<h3>
+Below you can also find my laboratory reports for General Physics: Thermodynamics course in MIPT.
+
+  (2nd semester)
+</h3>
+
+- [MIPT-Laboratory](https://github.com/RTCupid/MIPT-Laboratory)
+
