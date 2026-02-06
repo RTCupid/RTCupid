@@ -14,6 +14,7 @@ During my bachelor's studies, I have completed several programming and applied c
   (2nd year)
 </h3>
 
+- [Bitonic_sort](https://github.com/RTCupid/Bitonic_sort)
 - [Biba_Boba_Buba_Language](https://github.com/RTCupid/Biba_Boba_Buba_Language)
 - [3D_triangles](https://github.com/RTCupid/3D_triangles)
 - [Range_queries](https://github.com/RTCupid/Range_queries)
