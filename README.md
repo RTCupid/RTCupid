@@ -12,7 +12,7 @@ During my bachelor's studies, I have completed several programming and applied c
   (2nd year)
 </h3>
 
-- [Tensor compiler](https://github.com/RTCupid/Tensor_compiler)
+- [Tensor compiler](https://github.com/RTCupid/Tensor_compiler) - Implementation of the biba-boba tensor compiler.
 
 <h3>
   Here are some of my projects from
@@ -22,11 +22,11 @@ During my bachelor's studies, I have completed several programming and applied c
   (2nd year)
 </h3>
 
-- [Bitonic_sort](https://github.com/RTCupid/Bitonic_sort)
-- [Biba_Boba_Buba_Language](https://github.com/RTCupid/Biba_Boba_Buba_Language)
-- [3D_triangles](https://github.com/RTCupid/3D_triangles)
-- [Range_queries](https://github.com/RTCupid/Range_queries)
-- [2Q_cache](https://github.com/RTCupid/2Q_cache)
+- [Bitonic_sort](https://github.com/RTCupid/Bitonic_sort) - Implementation of the bitonic sorting algorithm on a GPU and comparison with the std::sort algorithm on a CPU;
+- [Biba_Boba_Buba_Language](https://github.com/RTCupid/Biba_Boba_Buba_Language) - Implementation of a frontend for the programming language in C++ using Bison and Flex to generate a parser with detailed error output;
+- [3D_triangles](https://github.com/RTCupid/3D_triangles) - Solving the Triangle Intersection Problem in three-dimensional space in C++. And the implementation of graphics for visualizing a scene in 3D space with the ability to rotate and move the camera, with lighting, and marking intersecting triangles using OpenGL;
+- [Range_queries](https://github.com/RTCupid/Range_queries) - Solving the Range Query Problem in C++ using a Red-Black Tree algorithm;
+- [2Q_cache](https://github.com/RTCupid/2Q_cache) - Implementation of the 2Q cache algorithm and comparison of its efficiency with the "perfect" cache.
  
 <h3>
   Here are some of my projects from
@@ -36,10 +36,10 @@ During my bachelor's studies, I have completed several programming and applied c
   (1st year)
 </h3>
 
-- [My_Programming_Language](https://github.com/RTCupid/My_Programming_Language)
-- [HashTable](https://github.com/RTCupid/HashTable)
-- [MandelbrotFractal](https://github.com/RTCupid/MandelbrotFractal)
-- [MyPrintf](https://github.com/RTCupid/MyPrintf)
+- [My_Programming_Language](https://github.com/RTCupid/My_Programming_Language) - Creating my own programming language and compiler for it. The project is in C. The backend is written for the x86-64 architecture, and for my CPU program;
+- [HashTable](https://github.com/RTCupid/HashTable) - A C-language project. Solving the problem of quickly searching for the number of occurrences of a word in a large English text using a hash table and optimizing search time;
+- [MandelbrotFractal](https://github.com/RTCupid/MandelbrotFractal) - Optimizing the computation time of all screen points for the Mandelbrot fractal using SIMD instructions;
+- [MyPrintf](https://github.com/RTCupid/MyPrintf) - Implementation of the printf function in NASM assembler. MyPrintf supports both cdecl and fastcall calling conventions. Fastcall processing uses a trampoline to the cdecl version. A jump table is used to handle type specifiers.
 
 <h3>
 Below you can also find my laboratory reports for General Physics: Thermodynamics semester course in MIPT.
@@ -47,5 +47,5 @@ Below you can also find my laboratory reports for General Physics: Thermodynamic
   (1st year)
 </h3>
 
-- [MIPT-Laboratory](https://github.com/RTCupid/MIPT-Laboratory)
+- [MIPT-Laboratory](https://github.com/RTCupid/MIPT-Laboratory) - MIPT Laboratory Work. Thermodynamics
 
