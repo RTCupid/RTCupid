@@ -7,9 +7,17 @@ My name is Muratov Artyom Andreevich. I'm a 2th year student at MIPT (Moscow Ins
 During my bachelor's studies, I have completed several programming and applied computer science courses. Below are selected projects that best represent my work from these courses.
 
 <h3>
+  Here is my project from "Introduction to tensor compilers" course.
+
+  (2nd year)
+</h3>
+
+- [Tensor compiler](https://github.com/RTCupid/Tensor_compiler)
+
+<h3>
   Here are some of my projects from
   <a href="https://github.com/tilir">K.I.Vladimirov</a>
-  one-year introduction to industrial programming in C++ course.
+  one-year "Introduction to industrial programming in C++" course.
 
   (2nd year)
 </h3>
@@ -23,7 +31,7 @@ During my bachelor's studies, I have completed several programming and applied c
 <h3>
   Here are some of my projects from
   <a href="https://github.com/ded32">I.R.Dedinsky</a>
-  one-year system programming and compiler technology course (C/C++, NASM).
+  one-year "System programming and compiler technology" course (C/C++, NASM).
 
   (1st year)
 </h3>
