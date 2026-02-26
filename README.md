@@ -4,6 +4,8 @@
 
 My name is Muratov Artyom Andreevich. I'm a 2th year student at MIPT (Moscow Institute of Physics and Technology).
 
+- [My CV](https://github.com/RTCupid/MuratovArtyomCV)
+
 During my bachelor's studies, I have completed several programming and applied computer science courses. Below are selected projects that best represent my work from these courses.
 
 <h3>
