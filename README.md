@@ -25,7 +25,7 @@ During my bachelor's studies, I have completed several programming and applied c
 </h3>
 
 - [Bitonic_sort](https://github.com/RTCupid/Bitonic_sort) - Implementation of the bitonic sorting algorithm on a GPU and comparison with the std::sort algorithm on a CPU;
-- [Biba_Boba_Buba_Language](https://github.com/RTCupid/Biba_Boba_Buba_Language) - Implementation of a frontend for the programming language in C++ using Bison and Flex to generate a parser with detailed error output;
+- [ParaCL_compiler](https://github.com/RTCupid/Biba_Boba_Buba_Language) - Implementation of a frontend for the programming language in C++ using Bison and Flex to generate a parser with detailed error output. Developed Interpretator and generator of LLVM IR;
 - [3D_triangles](https://github.com/RTCupid/3D_triangles) - Solving the Triangle Intersection Problem in three-dimensional space in C++. And the implementation of graphics for visualizing a scene in 3D space with the ability to rotate and move the camera, with lighting, and marking intersecting triangles using OpenGL;
 - [Range_queries](https://github.com/RTCupid/Range_queries) - Solving the Range Query Problem in C++ using a Red-Black Tree algorithm;
 - [2Q_cache](https://github.com/RTCupid/2Q_cache) - Implementation of the 2Q cache algorithm and comparison of its efficiency with the "perfect" cache.
