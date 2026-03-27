@@ -9,6 +9,16 @@ My name is Muratov Artyom Andreevich. I'm a 2th year student at MIPT (Moscow Ins
 During my bachelor's studies, I have completed several programming and applied computer science courses. Below are selected projects that best represent my work from these courses.
 
 <h3>
+My experience in working with MLIR
+</h3>
+
+I studied MLIR on my own to learn how to build compiler transformations and custom dialects. The two projects below show what I implemented.
+
+- [My Tiling Pass](https://github.com/RTCupid/MLIR_MyTilingPass). I implemented a pass that applies tiling to matrix multiplication operations in the Linalg dialect. The pass splits large matrix multiplications into smaller blocks. This improves data locality and makes further optimisations like vectorisation possible.
+
+- [My Dialect with simple transformation](https://github.com/RTCupid/MLIR_MyDialect). I created a custom MLIR dialect with simple operations and implemented a transformation for the transpose operation. The goal was to learn the full process of dialect development: defining operations, types, and writing a transformation pass.
+
+<h3>
   Here is my project from "Introduction to tensor compilers" course.
 
   (2nd year)
