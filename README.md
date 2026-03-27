@@ -24,7 +24,7 @@ I studied MLIR on my own to learn how to build compiler transformations and cust
   (2nd year)
 </h3>
 
-- [Tensor compiler](https://github.com/RTCupid/Tensor_compiler) - Implementation of the biba-boba tensor compiler.
+- [Tensor compiler](https://github.com/RTCupid/Tensor_compiler) - Implementation of the tensor compiler.
 
 <h3>
   Here are some of my projects from
