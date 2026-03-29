@@ -22,7 +22,7 @@ My experience in working with MLIR
   (2nd year)
 </h3>
 
-- [Tensor compiler](https://github.com/RTCupid/Tensor_compiler) - Implementation of the tensor compiler.
+- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler) - Implementation of the tensor compiler.
 
 <h3>
   Here are some of my projects from
