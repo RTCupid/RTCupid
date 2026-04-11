@@ -22,7 +22,7 @@ My experience in working with MLIR
   (2nd year)
 </h3>
 
-- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler) - Implementation of the tensor compiler.
+- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler) - An compiler has been implemented, consisting of the following phases: parsing of the ONNX model into an internal representation of the computational graph, MLIR generation, transformation of MLIR into LLVM Dialect, LLVM Dialect into LLVM IR, and LLVM IR into assembly.
 
 <h3>
   Here are some of my projects from
