@@ -14,7 +14,7 @@ My experience in working with MLIR
 
 - [My Tiling Pass](https://github.com/RTCupid/MLIR_MyTilingPass). Implemented a pass that applies tiling to matrix multiplication operations in the Linalg dialect. The pass splits large matrix multiplications into smaller blocks. This improves data locality and makes further optimisations like vectorisation possible.
 
-- [My Dialect with simple transformation](https://github.com/RTCupid/MLIR_MyDialect). Created a custom MLIR dialect with simple operations and implemented a transformation for the transpose operation. The goal was to learn the full process of dialect development: defining operations, types, and writing a transformation pass.
+- [My Dialect with simple transformation](https://github.com/RTCupid/MLIR_MyDialect). Created a custom MLIR dialect with simple operations and implemented a transformation for the transpose operation. The goal was to learn the full process of dialect development: defining operations, types, and writing a transformation pass. Based on the Toy Tutorial.
 
 <h3>
   Here is my project from "Introduction to tensor compilers" course.
@@ -22,7 +22,7 @@ My experience in working with MLIR
   (2nd year)
 </h3>
 
-- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler) - An compiler has been implemented, consisting of the following phases: parsing of the ONNX model into an internal representation of the computational graph, MLIR generation, transformation of MLIR into LLVM Dialect, LLVM Dialect into LLVM IR, and LLVM IR into assembly.
+- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler). An compiler has been implemented, consisting of the following phases: parsing of the ONNX model into an internal representation of the computational graph, MLIR generation, transformation of MLIR into LLVM Dialect, LLVM Dialect into LLVM IR, and LLVM IR into assembly.
 
 <h3>
   Here are some of my projects from
