@@ -4,7 +4,7 @@
 
 My name is Muratov Artyom Andreevich. I'm a 2th year student at MIPT (Moscow Institute of Physics and Technology).
 
-- [My CV](https://github.com/RTCupid/MuratovArtyomCV)
+- [muratov-artyom-cv](https://github.com/RTCupid/MuratovArtyomCV)
 
 During my bachelor's studies, I have completed several programming and applied computer science courses. Below are selected projects that best represent my work from these courses.
 
@@ -12,9 +12,9 @@ During my bachelor's studies, I have completed several programming and applied c
 My experience in working with MLIR
 </h3>
 
-- [My Tiling Pass](https://github.com/RTCupid/MLIR_MyTilingPass). Implemented a pass that applies tiling to matrix multiplication operations in the Linalg dialect. The pass splits large matrix multiplications into smaller blocks. This improves data locality and makes further optimisations like vectorisation possible.
+- [mlir-my-tiling-pass](https://github.com/RTCupid/MLIR_MyTilingPass). Implemented a pass that applies tiling to matrix multiplication operations in the Linalg dialect. The pass splits large matrix multiplications into smaller blocks. This improves data locality and makes further optimisations like vectorisation possible.
 
-- [My Dialect with simple transformation](https://github.com/RTCupid/MLIR_MyDialect). Created a custom MLIR dialect with simple operations and implemented a transformation for the transpose operation. The goal was to learn the full process of dialect development: defining operations, types, and writing a transformation pass. Based on the Toy Tutorial.
+- [mlir-my-dialect](https://github.com/RTCupid/MLIR_MyDialect). Created a custom MLIR dialect with simple operations and implemented a transformation for the transpose operation. The goal was to learn the full process of dialect development: defining operations, types, and writing a transformation pass. Based on the Toy Tutorial.
 
 <h3>
   Here is my project from "Introduction to tensor compilers" course.
