@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff8aa5&height=140&section=header&text=Artyom%20Muratov%20%7C%20RTCupid&fontSize=42&fontColor=d4b483&textShadow=0%200%2015px%23f0c6e7)
 
-My name is Muratov Artyom Andreevich. I'm a 2th year student at MIPT (Moscow Institute of Physics and Technology).
+My name is Muratov Artyom Andreevich. I'm a 3th year student at MIPT (Moscow Institute of Physics and Technology).
 
 - [muratov-artyom-cv](https://github.com/RTCupid/MuratovArtyomCV)
 
