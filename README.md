@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ff8aa5&height=140&section=header&text=Artyom%20Muratov%20%7C%20RTCupid&fontSize=42&fontColor=d4b483&textShadow=0%200%2015px%23f0c6e7)
 
-My name is Muratov Artyom Andreevich. I'm a 3th year student at MIPT (Moscow Institute of Physics and Technology).
+My name is Muratov Artyom Andreevich. I'm a third-year year student at MIPT (Moscow Institute of Physics and Technology).
 
 - [muratov-artyom-cv](https://github.com/RTCupid/MuratovArtyomCV)
 
@@ -22,7 +22,7 @@ My experience in working with MLIR
   (2nd year)
 </h3>
 
-- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler). An compiler has been implemented, consisting of the following phases: parsing of the ONNX model into an internal representation of the computational graph, MLIR generation, transformation of MLIR into LLVM Dialect, LLVM Dialect into LLVM IR, and LLVM IR into assembly.
+- [Tensor compiler](https://github.com/BulgakovDmitry/Tensor_compiler). A compiler has been implemented, consisting of the following phases: parsing of the ONNX model into an internal representation of the computational graph, MLIR generation, transformation of MLIR into LLVM Dialect, LLVM Dialect into LLVM IR, and LLVM IR into assembly.
 
 <h3>
   Here are some of my projects from
@@ -33,7 +33,7 @@ My experience in working with MLIR
 </h3>
 
 - [Bitonic_sort](https://github.com/RTCupid/Bitonic_sort) - Implementation of the bitonic sorting algorithm on a GPU and comparison with the std::sort algorithm on a CPU;
-- [ParaCL_compiler](https://github.com/RTCupid/Biba_Boba_Buba_Language) - Implementation of a frontend for the programming language in C++ using Bison and Flex to generate a parser with detailed error output. Developed Interpretator and generator of LLVM IR;
+- [ParaCL_compiler](https://github.com/RTCupid/Biba_Boba_Buba_Language) - Implementation of a frontend for the programming language in C++ using Bison and Flex to generate a parser with detailed error output. Developed Interpreter and generator of LLVM IR;
 - [3D_triangles](https://github.com/RTCupid/3D_triangles) - Solving the Triangle Intersection Problem in three-dimensional space in C++. And the implementation of graphics for visualizing a scene in 3D space with the ability to rotate and move the camera, with lighting, and marking intersecting triangles using OpenGL;
 - [Range_queries](https://github.com/RTCupid/Range_queries) - Solving the Range Query Problem in C++ using a Red-Black Tree algorithm;
 - [2Q_cache](https://github.com/RTCupid/2Q_cache) - Implementation of the 2Q cache algorithm and comparison of its efficiency with the "perfect" cache.
